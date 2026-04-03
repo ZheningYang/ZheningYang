@@ -38,16 +38,6 @@ Docker • Kubernetes • CI/CD
 
 ---
 
-## 🚧 What you'll find here
-
-This GitHub is where I:
-
-* Experiment with new ideas
-* Build side projects (coming soon 👀)
-* Explore AI and system design
-
----
-
 ## 📫 Contact
 
 <a href="https://www.linkedin.com/in/zhening-yang/" target="blank">
