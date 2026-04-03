@@ -1,8 +1,5 @@
-# 👋 Hi, I'm Zhening
-
-💻 Senior Fullstack Developer (Java • Angular • Vue)
-🤖 Exploring AI & intelligent systems
-🇫🇷 Based in France
+# 🏅 Zhening Yang
+**`Senior Fullstack Developer @ Unibet France`** 
 
 ---
 
@@ -53,8 +50,12 @@ This GitHub is where I:
 
 ## 📫 Contact
 
-📧 [zhening.yang@gmail.com](mailto:zhening.yang@gmail.com)
-🔗 LinkedIn (https://www.linkedin.com/in/zhening-yang)
+<a href="https://www.linkedin.com/in/zhening-yang/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+<a href="https://x.com/ZheningY55408" target="blank">
+  <img src="https://skillicons.dev/icons?i=twitter" alt="twitter" />
+</a>
 
 ---
 
